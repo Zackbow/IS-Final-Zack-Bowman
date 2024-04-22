@@ -21,6 +21,15 @@ nav ul li {
     margin-right: 25px;
 }
 
+.headercolor li a {
+    color: white;
+    text-decoration: none;
+}
+
+.headercolor a:hover {
+    color:#cc00ff;
+}
+
 section {
     margin: 25px;
 }
